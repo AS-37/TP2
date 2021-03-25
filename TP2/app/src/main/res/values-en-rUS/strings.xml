@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="poids">Weight :</string>
+    <string name="taille">Height :</string>
+    <string name="d_terminez_votre_taille">Write in your height :</string>
+    <string name="d_terminez_votre_poids">Write in your weight :</string>
+    <string name="appr_ciation">Appreciation :</string>
+    <string name="calculer_imc">Calculate BMI</string>
+    <string name="reset">Reset</string>
+    <string name="r_sultat">Result :</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_imc_pour_obtenir_un_r_sultat">You must click on the \"Calculate BMI\" button in order to get your result</string>
+    <string name="m_tre">Meter</string>
+    <string name="centim_tre">Centimeter</string>
+    <string name="obesite_morbide">You are in Class III Obesity.</string>
+    <string name="obesite_severe">You are in Class II Obesity.</string>
+    <string name="obesite_moderee">You are in Class I Obesity.</string>
+    <string name="surpoids">You are Overweight.</string>
+    <string name="normal">You have a normal body mass index.</string>
+    <string name="maigreur">You are Underweight.</string>
+    <string name="famine">You are in Starvation Class.</string>
+    <string name="height_error_notPositive">Your height must be positive !</string>
+    <string name="weight_error_notPositive">Your weight must be positive !</string>
+    <string name="your_bmi">"Your BMI score is "</string>
+</resources>
